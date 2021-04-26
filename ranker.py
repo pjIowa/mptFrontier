@@ -122,7 +122,5 @@ num_in_set = 2
 plot_portfolios(num_in_set, num_assets, df_full)
 num_in_set = 3
 plot_portfolios(num_in_set, num_assets, df_full)
-num_in_set = 5
-plot_portfolios(num_in_set, num_assets, df_full)
 num_in_set = num_assets
 plot_portfolios(num_in_set, num_assets, df_full)
