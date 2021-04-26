@@ -71,7 +71,7 @@ Due to their extreme returns and volatility, I didn't know whether Bitcoin and E
 
 ![max_sr_3](max_sr_3.png)
 
-### Asset Combination with Maximum Sharpe Ratio Statistics
+### Report on Asset Combination with Maximum Sharpe Ratio
 | 2-Asset  ||
 | - | - |
 | Asset Names | bitcoin, treasury_3mo_less |
@@ -97,7 +97,7 @@ Due to their extreme returns and volatility, I didn't know whether Bitcoin and E
 | Annual Sharpe Ratio | 4.137 |
 
 ### Discussion
-I expected the short-term Treasury debt to be in the optimized portfolio, but I didn't expect it to be consistently >98% weight for the best combinations. The crypto currencies offest the variance of the treasury 3 month the most; as other weights are below 1% in all portfolios, it's unreasonable to conjecture further. As it's been proven, the maximum Sharpe Ratio increases if you increase diversification.
+I expected the short-term Treasury debt to be in the best portfolios, but I didn't expect it to be consistently >98% weight for all combinations. The crypto currencies offest the variance of the treasury 3 month the most. As the weights, outside of short-term Treasury, are below 1% in all portfolios, it's unreasonable to conjecture further. As it's been proven academically, the maximum Sharpe Ratio increases if you increase diversification.
 
 ### Advanced Analysis, TODO
 
