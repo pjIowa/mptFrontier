@@ -31,7 +31,7 @@ This analysis is to demonstrate simple portfolio analysis and explore my own con
 #### Currencies
 | Asset | Symbol|
 | - | - |
-| USD Bearish against six G10 currency basket, trade-weighted | UDN |
+| USD Bearish against a currency basket using G10 countries, trade-weighted | UDN |
 | USD Bullish against same | UUP |
 
 ### Individual Mean-Variance Plots
